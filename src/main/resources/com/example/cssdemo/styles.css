@@ -1,0 +1,19 @@
+.root{
+-fx-font-family: "Arial";
+-fx-background-color: blue;
+}
+.button{
+  -fx-background-color: red;
+  -fx-text-fill: white;
+  -fx-font-size:14px;
+  -fx-padding: 8px 16px;
+}
+.button:hover{
+-fx-background-color: yellow;
+  -fx-text-fill: black;
+}
+.label{
+-fx-font-size: 16px;
+-fx-text-fill: black;
+-fx-text-align: center;
+}
